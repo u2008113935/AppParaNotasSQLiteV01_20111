@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AppParaNotasSQLiteV01</string>
+
+    <string name="txtAgregarNota">Agregar nota</string>
+    <string name="etTitulo">Título de la nota</string>
+    <string name="etDescripcion">Descripción de la nota</string>
+
+</resources>
